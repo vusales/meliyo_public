@@ -1,0 +1,16 @@
+export default {
+    main: "#000000" ,
+    second: "#F77A3C" ,  
+    text: '#EBEBEB' , 
+    gray : "#252525" , 
+    error: "red",
+    darkborder: "#393939" , 
+    tabBack: "#1B1F29" , 
+    blanko: "#fff" , 
+    placeholderText: "rgba(235, 235, 235, 0.6);" ,
+    turkuaz: "#47AE99"  ,
+    yellow: "#FAD03C" ,
+    yellowsecond : "#FBCC26" , 
+    transparentGray: "rgba(37, 37, 37, 0.60)" ,  
+    textGray : "#727272" , 
+};

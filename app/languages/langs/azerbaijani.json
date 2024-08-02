@@ -1,0 +1,112 @@
+{
+    "translation" : {
+        "languagePageTitle" : "Dillər" , 
+        "homepagetitle": "Axtarış" ,
+        "followPagetitle": "İzlədiklərim" , 
+        "categoryPageTitle" : "Kateqoriya" ,
+        "profilePagetitle": "Profil" , 
+        "storePageTitle":"Mağaza" , 
+        "videoorderPageTitle": "Video sifarişlər" , 
+        "cartPageTitle": "Səbət" ,
+        "favoritesPagetitle": "Bəyəndiyim məhsullar" , 
+        "settingPagetitle": "Tənzimləmələr" ,
+        "loginPagetitle": "Giriş" ,  
+        "logoutPagetitle": "Çıxış et" , 
+        "editProfilePagename": "Profilə düzəliş et" , 
+        "statisticsPageName":"Statistika" , 
+        "changeEmailPageTitle":"E-poçt adresini dəyiş" , 
+        "changePasswordPageTitle":"Şifrəni dəyiş" , 
+        "securityPrivacyPageTitle":"Təhlükəsizlik və məxfilik" , 
+        "termsPageTitle":"Şərtlər və qaydalar" , 
+        "faqsPageTitle":"FAQS" ,
+        "statisticsPageTitle": "Statistika" ,  
+
+
+        "name_label": "Ad" , 
+        "surname_label": "Soyad" , 
+        "email_label":"E-poçt", 
+        "bio_label":"Bio",
+        "username_label": "İstifadəçi adı" ,
+        "birthday_label": "Doğum günü" , 
+        "phone_label": "Əlaqə nömrəsi" ,
+        "password_label": "Şifrəniz" , 
+        "password_again_label":"Şifrənizin təkrarı" , 
+
+
+        "confirm":"Təsdiq et", 
+        "product": "məhsul" , 
+        "confirmOrder": "Sifarişi tamamla", 
+        "enter":"Daxil ol", 
+        "filter":"Filter", 
+        "sort":"Sırala", 
+        "clear": "təmizlə" , 
+        "startselling":"Satışa başla",
+        "startorder": "Sifarişə başla" , 
+        "viewAll" : "Hamısını gör" , 
+        "tvFilms": "TV / Filmlər" ,
+        "follow": "izlə" , 
+        "unFollow" : "İzləyirsiniz" , 
+        "followers": "izləyicilər" , 
+        "comments": "rəylər" , 
+        "ratings": "reytinqlər" ,
+        "videos": "videolar" , 
+        "search": "Axtar" ,
+        "editProfile": "profilə düzəliş et" , 
+        "editpicture":"şəkli dəyiş",
+        "soldProducts": "Satılan məhsullar" ,
+        "myProducts": "Məhsullarım" , 
+        "purchaisedVideos": "Alınan videolar", 
+
+        "video.order.from.whom.title": "Kimden?" , 
+        "video.order.to.who.title": "Kime?" , 
+        "video.order.description.title":"Video nə üçündür?" , 
+        "video.order.theme.title":"Mövzu:" ,
+        "video.order.info.title": "Məlumat" , 
+        "video.order.instructions": "Təlimatlar" , 
+
+        "sort.cheap": "Ucuz" , 
+        "sort.expencive": "Baha" , 
+
+
+
+        "purchaisedProducts": "Alınan məhsullar", 
+
+        "notloggedIn" : "Hesabınıza daxil olmamısınız!"  ,  
+        "noFollowings": "İzlədiyiniz ulduz yoxdur!" , 
+
+        "soon" : "Mağaza tezliklə açılacaq!" , 
+        "tohome": "əsas səhifəyə qayıt" , 
+        "all": "Hamısı", 
+        "my.orders": "Sifarişlərim" , 
+        "incoming.orders": "Gələn sifarişlər" , 
+        "noproduct": "Məhsul yoxdur!" ,
+        "noorder": "Sifariş yoxdur!" , 
+        "error" : "Xəta baş verdi!" ,
+        "notlogged": "Hesabınıza daxil olmamısınız!",
+        "wpnumber": "Qiyməti dəyişmək üçün müraciət edin!"  , 
+
+        "how.meliyo.works":"Meliyo necə işləyir?" , 
+        "how.meliyo.first": "Bir ulduz tap. Özəl videolar təklif edən yüzlərlə ulduza göz atın." , 
+        "how.meliyo.second": "Onlara nə deyəcəklərini ətraflı yazın. Yoxlama zamanı siz məşhurun ​​​​mükəmməl, özəl video çəkməsi üçün lazım olan məlumatları ətraflı yazın" , 
+        "how.meliyo.third": "Videonuzu alın. Məşhurların sorğunuzu yerinə yetirmək üçün 7 gün boyunca vaxtı var. Hazır olanda birbaşa sizə göndərəcəyik." , 
+        "how.meliyo.fourth": "Sevdiklərinizlə paylaşın. Videolarınızı dostlarınıza, sevdiklerinize göndərin və onların qiymətsiz reaksiyalarını qeyd etməyi unutmayın."  , 
+
+
+        "terms.first.title": "ŞƏRTLƏR VƏ QAYDALAR ÜMUMİ MÜDDƏALAR" , 
+        "terms.first.text": "", 
+        "terms.second.title": "" , 
+        "terms.second.text": "" , 
+        "terms.third.title": "" , 
+        "terms.third.text": "" , 
+        "terms.fourth.title": "" , 
+        "terms.fourth.text": "" , 
+        "terms.fifth.title": "" , 
+        "terms.fifth.text": "" , 
+        "terms.sixth.title": "" , 
+        "terms.sixth.text": "" , 
+        "terms.seven.title": "" , 
+        "terms.seven.text": "" 
+
+ 
+    }
+}

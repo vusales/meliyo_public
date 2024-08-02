@@ -1,0 +1,116 @@
+{
+    "translation" : {
+        "languagePageTitle" : "Languages" ,
+        "homepagetitle": "Search" ,
+        "followPagetitle": "Followings" , 
+        "categoryPageTitle" : "Category" ,
+        "profilePagetitle": "Profile" , 
+        "storePageTitle":"Store"  , 
+        "videoorderPageTitle": "video orders" , 
+        "cartPageTitle": "Cart" ,
+        "favoritesPagetitle": "Favorites" , 
+        "settingPagetitle": "Settings" ,
+        "loginPagetitle": "Login" ,  
+        "logoutPagetitle": "Logout" , 
+        "editProfilePagename": "Edit profile" , 
+        "statisticsPageName": "Statistics" ,
+        "changeEmailPageTitle":"Change email" , 
+        "changePasswordPageTitle":"change password" , 
+        "securityPrivacyPageTitle":"Security & Privacy" , 
+        "termsPageTitle":"Terms & Conditions" , 
+        "faqsPageTitle":"FAQS" , 
+        "statisticsPageTitle": "Statistics" , 
+
+        "name_label": "Name" , 
+        "surname_label": "Surname" , 
+        "email_label":"Email", 
+        "bio_label":"Bio",
+        "username_label": "User name" ,
+        "birthday_label": "Birthday" , 
+        "phone_label": "Phone number" ,
+        "password_label": "Password" , 
+        "password_again_label":"Password again" , 
+
+
+        "confirmOrder": "Confirm order",
+        "product": "products" , 
+        "confirm":"Confirm", 
+        "enter":"Enter",
+        "filter":"Filter", 
+        "sort":"Sort", 
+        "clear": "clear" , 
+        "startselling":"start selling",
+        "startorder": "Start order" , 
+        "viewAll" : "View all" , 
+        "tvFilms": "TV / Films" ,
+        "follow": "follow" , 
+        "unFollow" : "following" , 
+        "followers": "followers" , 
+        "comments": "comments" , 
+        "videos": "videos" , 
+        "ratings": "ratings" ,
+        "search": "Search" ,
+        "editProfile": "edit profile" , 
+        "editpicture":"change picture",
+        "soldProducts": "sold products" ,
+        "myProducts": "My products" , 
+        "purchaisedVideos": "Purchased videos", 
+        "video.order.from.whom.title": "From who?" , 
+        "video.order.to.who.title": "To who?" , 
+        "video.order.description.title":"What is purpose of the video?" , 
+        "video.order.theme.title":"Theme:" ,
+        "video.order.info.title": "Information" , 
+        "video.order.instructions": "Instructions" , 
+        "sort.cheap": "Cheap" , 
+        "sort.expencive": "Expencive" , 
+
+
+
+
+        "purchaisedProducts": "Purchased products" ,  
+
+        "notloggedIn" : "You are not loged in!"  ,  
+        "noFollowings": "No followings!" , 
+
+
+        "soon" : "Store will open soon!" , 
+        "tohome": "back to home" , 
+        "all": "All", 
+        "my.orders": "My orders" , 
+        "incoming.orders": "İncoming orders" , 
+        "noproduct": "No product yet!", 
+        "noorder": "No order yet!" , 
+        "error" : "Something went wrong!" ,
+        "notlogged": "You are not logged in!" , 
+        "wpnumber": "Apply for changing the price!"  , 
+
+        "how.meliyo.works":"How Meliyo works?" , 
+        "how.meliyo.first": "Find a star.Browse hundreds of stars offering private videos.",
+        "how.meliyo.second": "Write down what they have to say. During the check-up, you write down the details that the celebrity needs to make the perfect, private video." , 
+        "how.meliyo.third": "Get the video. Celebrities have 7 days to comply with your request. We'll send it straight to you when it's ready." , 
+        "how.meliyo.fourth": "Share with your loved ones. Send your videos to your friends and loved ones and don't forget to record their priceless reactions."  , 
+
+
+
+        "terms.first.title": "ŞƏRTLƏR VƏ QAYDALAR ÜMUMİ MÜDDƏALAR" , 
+        "terms.first.text": "", 
+        "terms.second.title": "" , 
+        "terms.second.text": "" , 
+        "terms.third.title": "" , 
+        "terms.third.text": "" , 
+        "terms.fourth.title": "" , 
+        "terms.fourth.text": "" , 
+        "terms.fifth.title": "" , 
+        "terms.fifth.text": "" , 
+        "terms.sixth.title": "" , 
+        "terms.sixth.text": "" , 
+        "terms.seven.title": "" , 
+        "terms.seven.text": "" 
+
+
+
+
+
+
+    }
+}

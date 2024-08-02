@@ -1,0 +1,117 @@
+{
+    "translation" : {
+        "languagePageTitle" : "Языки" ,
+        "homepagetitle": "Поиск" ,
+        "followPagetitle": "Подписки" , 
+        "categoryPageTitle" : "Категории" ,
+        "profilePagetitle": "Профиль" , 
+        "storePageTitle":"Магазин"  , 
+        "videoorderPageTitle": "Видео заказы" , 
+        "cartPageTitle": "Корзина" ,
+        "favoritesPagetitle": "Избранное" , 
+        "settingPagetitle": "Настройки" ,
+        "loginPagetitle": "Вход" ,  
+        "logoutPagetitle": "Выйти" , 
+        "editProfilePagename": "Редактировать профиль" , 
+        "statisticsPageName": "Статистика" ,
+        "changeEmailPageTitle":"Изменить e-mail" , 
+        "changePasswordPageTitle":"изменить пароль" , 
+        "securityPrivacyPageTitle":"Безопасность и конфиденциальность" , 
+        "termsPageTitle":"Условия" , 
+        "faqsPageTitle":"FAQS" , 
+        "statisticsPageTitle": "Статистика" , 
+ 
+
+        "name_label": "Имя" , 
+        "surname_label": "Фамилия" , 
+        "email_label":"Электронная почта", 
+        "bio_label":"Био",
+        "username_label": "имя пользователя" ,
+        "birthday_label": "День рождения" , 
+        "phone_label": "Контактный номер" ,
+        "password_label": "Ваш пароль" , 
+        "password_again_label":"Повторите свой пароль" , 
+      
+
+        "confirmOrder": "Выполнить заказ",
+        "product": "продукты" , 
+        "confirm":"Подтверди это", 
+        "enter":"Входить",
+        "filter":"Фильтр", 
+        "sort":"Сортировать",     
+        "clear": "oчистить" , 
+        "startselling":"начать продавать",
+        "startorder": "Стартовый заказ" , 
+        "viewAll" : "посмотреть все" , 
+        "tvFilms": "ТВ/Кино" ,
+        "follow": "подписаться" , 
+        "unFollow" : "подписаны" , 
+        "followers": "последователи" , 
+        "comments": "oтзывы" , 
+        "videos": "bидео" , 
+        "ratings": "pейтинги" ,
+        "search": "Поиск" ,
+        "editProfile": "редактировать профиль" , 
+        "editpicture":"изменить картинку",
+        "soldProducts": "Товары проданы" ,
+        "myProducts": "Мои продукты" , 
+        "purchaisedVideos": "Kупленные видео" ,
+        "video.order.from.whom.title": "От кого?" , 
+        "video.order.to.who.title": "Для кого?" , 
+        "video.order.description.title":"Для чего видео?" , 
+        "video.order.theme.title":"Предмет:" ,
+        "video.order.info.title": "Информация" , 
+        "video.order.instructions": "Инструкции" , 
+        "sort.cheap": "Дешевый" , 
+        "sort.expencive": "Дорогой" , 
+        
+        
+        "purchaisedProducts": "Купленные продукты" ,  
+
+        "notloggedIn" : "Bы не авторизованы!"  ,  
+        "noFollowings": "Нет подписчиков!"  , 
+
+
+
+        "soon" : "Магазин скоро откроется!" , 
+        "tohome": "назад" , 
+        "all": "Все", 
+        "my.orders": "Мои заказы" ,
+        "incoming.orders": "Входящие заказы" , 
+        "noproduct": "Нет продукта!", 
+        "noorder": "Еще нет заказа!" , 
+        "error" : "Что-то пошло не так!" ,
+        "notlogged": "Вы не вошли в систему!" ,
+        "wpnumber": "Подайте заявку на изменение цены!!" , 
+
+        "how.meliyo.works":"Как работает Мелийо?", 
+        "how.meliyo.first": "Просмотрите сотни звезд, предлагающих частные видео." ,
+        "how.meliyo.second": "Напишите подробно, что они скажут. Во время оформления заказа вы вводите данные, необходимые знаменитости для создания идеального персонализированного видео." , 
+        "how.meliyo.third": "Получите видео. У знаменитостей есть 7 дней, чтобы выполнить ваш запрос. Мы отправим его прямо вам, когда он будет готов." , 
+        "how.meliyo.fourth": "Поделитесь с близкими. Отправляйте свои видео друзьям и близким и не забывайте записывать их бесценные реакции."  , 
+
+
+
+        "terms.first.title": "ŞƏRTLƏR VƏ QAYDALAR ÜMUMİ MÜDDƏALAR" , 
+        "terms.first.text": "", 
+        "terms.second.title": "" , 
+        "terms.second.text": "" , 
+        "terms.third.title": "" , 
+        "terms.third.text": "" , 
+        "terms.fourth.title": "" , 
+        "terms.fourth.text": "" , 
+        "terms.fifth.title": "" , 
+        "terms.fifth.text": "" , 
+        "terms.sixth.title": "" , 
+        "terms.sixth.text": "" , 
+        "terms.seven.title": "" , 
+        "terms.seven.text": "" 
+
+
+
+
+
+
+
+    }
+}

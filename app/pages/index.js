@@ -1,0 +1,9 @@
+export { default as ChangePasswordPage } from './ChangePassword';
+export { default as FAQPage } from './FAQ';
+export { default as TermsPage } from './Terms';
+export { default as SecurityandPrivacyPage } from './SecurityandPrivacy';
+export { default as ChangeEmailPage } from './ChangeEmail';
+export { default as SignInPage } from './SignIn';
+export { default as LoginPage } from './Login';
+export { default as ConfirmationCode } from './CodeConfirmation';
+export { default as ChangeLanguagePage } from './ChangeLanguagePage';
