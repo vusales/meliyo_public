@@ -46,6 +46,7 @@ Meliyo is an entertainment app that allows users to connect with famous personal
 npm install
 # or
 yarn install
+bash ```
 3. Run the app:
  ```bash
 npm run android
