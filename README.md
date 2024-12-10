@@ -41,37 +41,40 @@ Meliyo is an entertainment app that allows users to connect with famous personal
    ```bash
    git clone https://github.com/vusales/meliyo_public.git
    cd meliyo
+  
 2. Install dependencies:
- ```bash
-npm install
-# or
-yarn install
-bash ```
+    ```bash
+   npm install
+   # or
+   yarn install
+
+
 3. Run the app:
- ```bash
-npm run android
-# or
-npm run ios
+    ```bash
+   npm run android
+   # or
+   npm run ios
+
 
 ### Project Structure
-
-meliyo/
-├── android/          # Android native code
-├── ios/              # iOS native code
-├── src/              # Main application code
-│   ├── assets/       # Static assets like images and fonts
-│   ├── components/   # Reusable UI components
-│   ├── hooks/        # Custom React hooks
-│   ├── navigation/   # Navigation configurations
-│   ├── screens/      # App screens
-│   ├── stores/       # MobX stores for state management
-│   ├── styles/       # Global styles and themes
-│   └── utils/        # Helper utilities and constants
-├── .eslintrc.js      # ESLint configuration
-├── babel.config.js   # Babel configuration
-├── package.json      # Project dependencies and scripts
-├── tsconfig.json     # TypeScript configuration
-└── README.md         # Project documentation
+   ```bash
+   meliyo/
+   ├── android/          # Android native code
+   ├── ios/              # iOS native code
+   ├── src/              # Main application code
+   │   ├── assets/       # Static assets like images and fonts
+   │   ├── components/   # Reusable UI components
+   │   ├── hooks/        # Custom React hooks
+   │   ├── navigation/   # Navigation configurations
+   │   ├── screens/      # App screens
+   │   ├── stores/       # MobX stores for state management
+   │   ├── styles/       # Global styles and themes
+   │   └── utils/        # Helper utilities and constants
+   ├── .eslintrc.js      # ESLint configuration
+   ├── babel.config.js   # Babel configuration
+   ├── package.json      # Project dependencies and scripts
+   ├── tsconfig.json     # TypeScript configuration
+   └── README.md         # Project documentation
 
 
 
