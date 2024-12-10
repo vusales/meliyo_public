@@ -39,7 +39,7 @@ Meliyo is an entertainment app that allows users to connect with famous personal
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vusales/meliyo_public.git
    cd meliyo
 2. Install dependencies:
  ```bash
